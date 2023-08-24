@@ -1,6 +1,6 @@
 {
     "name": "Document Summarization",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "This plugin hooks into the BlackHole to ask the Language Model to summarize groups of text chunks. Summaries are stored in the vector memory, along with the original chunks.",
     "author_name": "Me",
     "author_url": "https://mywebsite.me",
