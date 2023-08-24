@@ -1,4 +1,4 @@
-# Summarization
+# Document Summarization
 
 This plugin hooks into the `BlackHole` to ask the Language Model to summarize groups of text chunks. 
 Summaries are stored in the vector memory, along with the original chunks.  
